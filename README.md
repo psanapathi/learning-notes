@@ -4,3 +4,7 @@ Notes that I take down from the various courses I take and books I read will be 
 
 1. `feelthelearn-product-manager` -> Feel the Learn - Product Manager: https://www.feelthelearn.com/product-manager
 
+
+----------------
+
+Another part which I am including in this is stuff I learn from podcasts that I listen to. Check out the `podcasts` directory.
