@@ -1,12 +1,23 @@
 # optimize
 
-Podcast Name: Optimize with Brian Johnson
+Podcast Name: Optimize with Brian Johnson | More Wisdom in Less Time
 
 Host: Brian Johnson
 
 ## Table of Contents
 
+* [April 2017](#april-2017)
 * [January 2017](#january-2017)
+
+## April 2017
+
+**04/17/2017 - New +1: Keep Shooting**
+
+This is a story about [Karoly Takacs](https://en.wikipedia.org/wiki/K%C3%A1roly_Tak%C3%A1cs). A world class shooter, he lost his shooting hand - his right hand before the championships. He practised with his left hand, and won the world championships in 1939. The Olympics of 1940 and 1944 were canceled, and Takacs won the gold medal in the 1948 Olympics, to the surprise of everyone. The lesson here is to *keep shooting*, whatever the circumstances may be.
+
+**04/10/2017 - New +1: +1 or -1 = Destiny Math**
+
+Abraham Maslow studied the greatest people of our generation and said, "What one CAN be, one *must* be". Self-actualization is a need as basic as food and shelter. Life is a series of decisions and at each step, you decide whether you want to move forward and grow (+1), or stay still and be comfortable (-1). This series of decisions aggregates and compounds over time, and shapes our lives.
 
 ## January 2017
 
