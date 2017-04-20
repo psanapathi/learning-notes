@@ -18,6 +18,23 @@
 * Important to get the big picture first.
 * UX helps an app stand out from the rest.
 
+## Why should PMs understand UX?
+
+As a PM, your role is pretty interdisciplinary and you collaborate with designers, engineers,testers and other managers at your organization. Understanding the basics of UX won't only help you communicate with your UX designers but will also enable you to build user centric and creative products. 
+
+This (UI/UX) section of the program will introduce you to some concepts, tools and techniques used by UX designers. You don't need to become a UX expert but you should try to get a feel for the key ideas driving UX research. 
+
+The main steps in the User Experience journey are as follows:
+
+* Gathering Information & Domain research (know your competitors and domain)
+* User research (know your user)
+* Creating Personas (a persona is a fictional example of your user)
+* Brainstorming & creating User Journeys (know your user interactions with your product)
+* Wireframing (build a very simple & visual representation of your user interface)
+* Building Mockups (add colors and personality to your wireframes)
+* Prototyping (make your mockups interactive and dynamic)
+* Testing, Iterating and Improving (keep learning!)
+
 ## UI vs UX
 
 * UI is:
