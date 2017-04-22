@@ -19,6 +19,7 @@ collections:
   podcasts:
     output: true
 
+exclude: ['moocs', 'podcasts']
 podcast-categories: ['a16z', 'developer-tea', 'how-i-built-this', 'optimize', 'the-tim-ferris-show']
 mooc-categories: ['feelthelearn-product-manager']
 
