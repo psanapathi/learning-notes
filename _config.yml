@@ -19,14 +19,14 @@ collections:
   podcasts:
     output: true
 
-exclude: ['moocs', 'podcasts']
 podcast-categories: ['a16z', 'developer-tea', 'how-i-built-this', 'optimize', 'the-tim-ferris-show']
 mooc-categories: ['feelthelearn-product-manager']
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.html
+header_pages:
+ - moocs.md
+ - podcasts.md
 
 # Build settings
 markdown: kramdown
